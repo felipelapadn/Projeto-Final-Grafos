@@ -15,7 +15,9 @@ Djonatham Cauã Fritzen Christ
 <a href="https://www.linkedin.com/in/felipelapadn/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">
 </a> Felipe Lapa do Nascimento  
-Heitor Malheiros Liberato  
+<a href="https://www.linkedin.com/in/heitor-malheiros-liberato/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">
+</a> Heitor Malheiros Liberato  
 <a href="https://www.linkedin.com/in/mikegsouza/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">
 </a> Mike Gonçalves Souza.
